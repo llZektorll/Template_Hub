@@ -134,6 +134,6 @@ Following is a list of rule that must be followed for any pull request to be acc
 
 <a href="https://github.com/kmaasrud">kmaasrud</a>, for the project image desinged "Inspiration" and the project front page "README.md". 
 
-<a href="https://github.com/obsidian-community">Obsidian Community</a>, for the awesome example made with the Obsidian Hub.
+<a href="https://github.com/obsidian-community">Obsidian Community Team</a>, for the awesome example made with the Obsidian Hub.
 
 </details>
