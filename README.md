@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/reddit/subreddit-subscribers/obsidianmd?label=r%2Fobsidianmd&logo=reddit&logoColor=white&?link=https://www.reddit.com/r/ObsidianMD/">
 </a>
 <a href="https://forum.obsidian.md/">
-  <img src="https://img.shields.io/badge/Obsidian Forum-Discuss-%238471DA">
+  <img src="https://img.shields.io/badge/Obsidian Forum-Discuss">
 </a>
 
 </div>
