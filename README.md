@@ -126,7 +126,7 @@ Following is a list of rule that must be followed for any pull request to be acc
 
     1. EX: 1 - Daily Notes
 
-    2. EX2: 2 - Book Review
+    2. EX2: 2 - Book Notes
 
 2. All templates must be added in it's specific folder. There will not be a folder with random notes. Nothing can be that random. 
 
