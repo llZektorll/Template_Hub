@@ -3,21 +3,13 @@
 ![39438916879fc6e20fca16cbc962a44f272e102f (1)](https://user-images.githubusercontent.com/89364200/173401712-a37e77e5-3b64-4947-91ea-8326e63ba992.png)
 
 <a href="https://discord.gg/veuWUTm">
-
-  <img src="https://img.shields.io/discord/686053708261228577?color=%234E5D94%20&label=Obsidian Discord Server&logo=Discord&logoColor=white">
-
+  <img src="https://img.shields.io/discord/686053708261228577?color=%234E5D94%20&label=Obsidian Discord Server&logo=Discord&logoColor=white">
 </a>
-
 <a href="https://www.reddit.com/r/ObsidianMD/">
-
-  <img src="https://img.shields.io/reddit/subreddit-subscribers/obsidianmd?label=r%2Fobsidianmd&logo=reddit&logoColor=white&?link=https://www.reddit.com/r/ObsidianMD/">
-
+  <img src="https://img.shields.io/reddit/subreddit-subscribers/obsidianmd?label=r%2Fobsidianmd&logo=reddit&logoColor=white&?link=https://www.reddit.com/r/ObsidianMD/">
 </a>
-
 <a href="https://forum.obsidian.md/">
-
-  <img src="https://img.shields.io/badge/Obsidian Forum-Discuss-%238471DA">
-
+  <img src="https://img.shields.io/badge/Obsidian Forum-Discuss-%238471DA">
 </a>
 
 </div>
@@ -27,30 +19,21 @@
 # Table of contents
 
 - [What is Obsidian?](#what-is-obsidian)
-
 - [Project Description](#project-description)
-
 - [Usage](#usage)
-
 - [Frequently Asked Questions (FAQ)](#faq)
-
 - [Contribution Guide Lines](#contribution-guide-lines)
-
 - [Special Tanks ](#special-tanks)
 
 # What is Obsidian?
-
 <details>
-
 <summary></summary>
 
 **The human brain is non-linear: we jump from idea to idea, all the time. Your second brain should work the same.**
 
 **In Obsidian, making and following connections is frictionless. Tend to your notes like a gardener; at the end of the day, sit back and marvel at your own knowledge graph.**
 
-
 - [Official Obsidian Website](https://obsidian.md)
-
 
 </details>
 
@@ -59,9 +42,7 @@
 ---
 
 # Project Description
-
 <details>
-
 <summary></summary>
 
 Obsidian Template Hub started on the 13th of June 2022. It was set up to gather information on as many note templates as possible.
@@ -74,14 +55,11 @@ Because every person have a different workflow, note structure, thinking process
 
 ---
 
-
 # Usage
-
 <details>
-
 <summary></summary>
 
-I recommend you download the repository and add to you Obsidian to view how the templates will look like. Make sure to have all the required plugins for the notes you are testing.
+I recommend you download the repository and add to you Obsidian to view how the templates will look like. Make sure to have all the required plugins for the notes you are testing. 
 
 You can also create a new Vault just to test the templates.
 
@@ -92,9 +70,7 @@ You can also create a new Vault just to test the templates.
 ---
 
 # FAQ
-
 <details>
-
 <summary></summary>
 
 	❓ - How do i add the templates ?
@@ -136,20 +112,12 @@ A: At the moment I started this repository I'm the only one. But if any one cont
 
 </details>
 
-  
-
 ---
 
-  
-
 ---
-
-  
 
 # Contribution Guide Lines
-
 <details>
-
 <summary></summary>
 
 Following is a list of rule that must be followed for any pull request to be accepted.
@@ -176,30 +144,16 @@ Following is a list of rule that must be followed for any pull request to be acc
 
 </details>
 
-  
+---
 
 ---
 
-  
-
----
-
-  
-
-# Special tanks
-
+# Special tanks 
 <details>
-
 <summary></summary>
 
-  
-
-<a href="https://github.com/kmaasrud">kmaasrud</a>, for the project image desinged "Inspiration" and the project front page "README.md".
-
-  
+<a href="https://github.com/kmaasrud">kmaasrud</a>, for the project image desinged "Inspiration" and the project front page "README.md". 
 
 <a href="https://github.com/obsidian-community">Obsidian Community Team</a>, for the awesome example made with the Obsidian Hub.
-
-  
 
 </details>
