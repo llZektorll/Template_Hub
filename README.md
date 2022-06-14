@@ -16,7 +16,7 @@
 
 ---
 
-# Table of contents
+# Index
 
 - [What is Obsidian?](#what-is-obsidian)
 - [Project Description](#project-description)
