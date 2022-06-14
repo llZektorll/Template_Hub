@@ -17,18 +17,18 @@ tags: ["#Evaluation/"]
 
 ## 🧮 Pros and Cons calculation
 
-Pro | value 0-10 | Con | value 0-10
-:--:|:-----|:------:|:------:|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Pro1| 10| Con 1 |10|
-Total Pro| 10| Total Con |10|
+|Pro | value 0-10 | Con | value 0-10|
+|--|-----|------|------|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10| 
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Pro1| 10| Con 1 |10|
+|Total Pro| 10| Total Con |10|
 
 ❗❗❗ If the total divided by 100 don't have at least 20% of difference add more Pros and Cons.
