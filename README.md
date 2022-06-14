@@ -113,14 +113,15 @@ A: You can use the Obsidian Forum thread dedicated to this repository and I or s
 Following is a list of rule that must be followed for any pull request to be accepted.
 
 1. If there is no folder for the template you want to add create the folder following the same rule. All folders start with a number followed by the specific type of template
-	1. EX: 1 - Daily Notes
-	2. EX2: 2 - Book Review
+    1. EX: 1 - Daily Notes
+    2. EX2: 2 - Book Review
 2. All templates must be added in the correct folder.
-	1. EX: A daily note template must be placed inside the Daily Notes Folder
-3. All templates must have the name with the following configuration, in case you have more than one template for the same type of note 
-	1. EX: llZektorll-DailyNotes-0
-	2. EX2: llZektorll-DailyNotes-1
-4. Make sure you create a file under the folder "Contributors" with your information. There is a file named "00-Contributor" inside the folder to use as a template.
+    1. EX: A daily note template must be placed inside the Daily Notes Folder
+3. All templates must have the name with the following configuration, in case you have more than one template for the same type of note
+    1. EX: llZektorll-DailyNotes-0
+    2. EX2: llZektorll-DailyNotes-1
+4. If your template requires any specific plugin, please leave at the top of the template the exact name to be found in Obsidian or the URL to where it can be downloaded.
+5. Make sure you create a file under the folder "Contributors" with your information. There is a file named "00-Contributor" inside the folder to use as a template.
 
 </details>
 
