@@ -164,4 +164,5 @@ Following is a list of rule that must be followed for any pull request to be acc
 
 # Support Me
 
-I have converted coffee into this repository. If you thinks it was worth it consider helping me buy more coffee. <a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
+I have converted coffee ☕ into this repository. 
+If you thinks it was worth it consider helping me buy more coffee. <a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
