@@ -23,7 +23,7 @@
 - [Usage](#usage)
 - [Frequently Asked Questions (FAQ)](#faq)
 - [Contribution Guide Lines](#contribution-guide-lines)
-- [Special Tanks ](#special-tanks)
+- [Special Thanks ](#special-thanks)
 
 # What is Obsidian?
 <details>
@@ -148,7 +148,7 @@ Following is a list of rule that must be followed for any pull request to be acc
 
 ---
 
-# Special tanks 
+# Special Thanks 
 <details>
 <summary></summary>
 
