@@ -4,6 +4,10 @@ Plugin requirements: none. This template works with Obsidian's core Templates pl
 
 Source repository: https://github.com/Ronnie2025/xhs-obsidian-workflow-starter
 
+Latest maintained copy: https://ronnie2025.github.io/xhs-obsidian-workflow-starter/templates/xhs-content-brief.md
+
+Free starter release: https://github.com/Ronnie2025/xhs-obsidian-workflow-starter/releases/tag/v2026.06.19-content-brief
+
 ## Source Material
 
 - Source title:
